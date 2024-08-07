@@ -1,0 +1,330 @@
+#div1{
+    height: 40px;
+    width: 1390px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+    position: fixed;
+    
+}
+#div1>a{
+    text-decoration: none;
+    color: black;
+    margin-top: 13px;
+}
+#div1>img{
+    width: 150px;
+    height: 50px;
+
+}
+#div1>input{
+    text-align: center;
+    height: 30px;
+    width: 500px;
+    border-radius: 20px;
+    margin-top: 11px;
+}
+#main{
+    flex-wrap: wrap;
+}
+#divmain1{
+    margin-top: 50px;
+    margin-left: 200px;
+    padding: 0px;
+}
+#div4>div>h4{
+    margin: 0px;
+    padding: 0px;
+}
+#div4>div>p{
+    margin: 0px;
+    padding: 0px;
+}
+#div4>div>button{
+    height: 30px;
+    width: 36px;
+    background-color: white;
+    border: 0px;
+}
+
+#div9>div>button{
+    height: 30px;
+    width: 36px;
+    background-color: white;
+    border: 0px;
+}
+#div8>div>button{
+    height: 30px;
+    width: 36px;
+    background-color: white;
+    border: 0px;
+}
+#div5>div>h4{
+    margin: 0px;
+    padding: 0px;
+}
+#div5>div>p{
+    margin: 0px;
+    padding: 0px;
+}
+#div5>div>button{
+    height: 30px;
+    width: 36px;
+    background-color: white;
+    border: 0px;
+}
+#div6>div>h4{
+    margin: 0px;
+    padding: 0px;
+}
+#div6>div>p{
+    margin: 0px;
+    padding: 0px;
+}
+
+#div7>div>h4{
+    margin: 0px;
+    padding: 0px;
+}
+#div7>div>p{
+    margin: 0px;
+    padding: 0px;
+}#div8>div>h4{
+    margin: 0px;
+    padding: 0px;
+}
+#div8>div>p{
+    margin: 0px;
+    padding: 0px;
+}#div9>div>h4{
+    margin: 0px;
+    padding: 0px;
+}
+#div9>div>p{
+    margin: 0px;
+    padding: 0px;
+}#div10>div>h4{
+    margin: 0px;
+    padding: 0px;
+}
+#div10>div>p{
+    margin: 0px;
+    padding: 0px;
+}
+
+#div11>div>h4{
+    margin: 0px;
+    padding: 0px;
+}
+#div11>div>p{
+    margin: 0px;
+    padding: 0px;
+}
+#div12>div>h4{
+    margin: 0px;
+    padding: 0px;
+}
+#div12>div>p{
+    margin: 0px;
+    padding: 0px;
+}
+#div13>div>h4{
+    margin: 0px;
+    padding: 0px;
+}
+#div13>div>p{
+    margin: 0px;
+    padding: 0px;
+}
+#div2{
+    height: 500px;
+    width: 150px;
+   margin-left: 50px;
+
+}
+#div2>h5{
+    color: gray;
+}
+#div2>a{
+    text-decoration: none;
+    color: black;
+}
+#div3>h5{
+    color: grey;
+}
+#div3>a{
+    text-decoration: none;
+    color: black;
+}
+#div4{
+   
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30px;
+
+}
+#div4>div{
+   
+    text-align: center;
+}
+#div4>div>img{
+    width: 125px;
+    height: 125px;
+    border-radius: 2px;
+}
+#divmain{
+    display: flex;
+    margin-top: 50px;
+    position: fixed;
+}
+
+
+#div5{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30PX;
+}
+
+#div5>div{
+    
+    text-align: center;
+}
+#div5>div>img{
+    width: 125px;
+    height: 125px;
+    border-radius: 2px;
+}
+
+#main{
+    display: flex;
+}
+#div7>div>img{
+    width: 125px;
+    height: 125px;
+    border-radius: 2px;
+}
+#div7>div{
+    
+    text-align: center;
+}
+#div7{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30PX;
+    
+    
+}
+#div6{
+   
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30PX;
+    
+    
+
+}
+#div6>div{
+   
+    text-align: center;
+}
+#div6>div>img{
+    width: 125px;
+    height: 125px;
+    border-radius: 2px;
+}
+#div8{
+   
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30PX;
+
+}
+#div8>div{
+   
+    text-align: center;
+}
+#div8>div>img{
+    width: 125px;
+    height: 125px;
+    border-radius: 2px;
+}
+#div9>div>img{
+    width: 125px;
+    height: 125px;
+    border-radius: 2px;
+}
+#div9>div{
+    
+    text-align: center;
+}
+#div9{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30PX;
+}
+#div8{
+   
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30PX;
+
+}
+#div10{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30PX;
+}
+#div10>div>img{
+    width: 125px;
+    height: 125px;
+    border-radius: 2px;
+}
+#div10>div{
+    
+    text-align: center;
+}
+#div11>div>img{
+    width: 125px;
+    height: 125px;
+    border-radius: 2px;
+}
+#div11>div{
+    
+    text-align: center;
+}
+#div11{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30PX;
+}
+#div12{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30PX;
+}
+#div12>div>img{
+    width: 125px;
+    height: 125px;
+    border-radius: 100px;
+}
+#div12>div{
+    text-align: center;
+}
+#div13{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30PX;
+}
+#div13>div>img{
+    width: 125px;
+    height: 125px;
+    border-radius: 100px;
+}
+#div13>div{
+    text-align: center;
+}
+.footer{
+    display: Flex;
+    gap: 60px;
+    box-shadow: 10px 12px white;
+}
