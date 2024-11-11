@@ -157,7 +157,7 @@
     color: black;
 }
 #div4{
-   
+   justify-content: space evenly;
     display: flex;
     gap: 30px;
     margin-bottom: 30px;
