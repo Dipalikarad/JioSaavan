@@ -166,11 +166,13 @@
 #div4>div{
    
     text-align: center;
+    justify-content: space evenly;
 }
 #div4>div>img{
     width: 125px;
     height: 125px;
     border-radius: 2px;
+    
 }
 #divmain{
     display: flex;
