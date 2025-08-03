@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}  
 #div1{
     height: 40px;
     width: 1390px;
@@ -32,14 +36,6 @@
     margin-left: 200px;
     padding: 0px;
 }
-#div4>div>h4{
-    margin: 0px;
-    padding: 0px;
-}
-#div4>div>p{
-    margin: 0px;
-    padding: 0px;
-}
 #div4>div>button{
     height: 30px;
     width: 36px;
@@ -59,14 +55,7 @@
     background-color: white;
     border: 0px;
 }
-#div5>div>h4{
-    margin: 0px;
-    padding: 0px;
-}
-#div5>div>p{
-    margin: 0px;
-    padding: 0px;
-}
+
 #div5>div>button{
     height: 30px;
     width: 36px;
@@ -77,65 +66,8 @@
     margin: 0px;
     padding: 0px;
 }
-#div6>div>p{
-    margin: 0px;
-    padding: 0px;
-}
 
-#div7>div>h4{
-    margin: 0px;
-    padding: 0px;
-}
-#div7>div>p{
-    margin: 0px;
-    padding: 0px;
-}#div8>div>h4{
-    margin: 0px;
-    padding: 0px;
-}
-#div8>div>p{
-    margin: 0px;
-    padding: 0px;
-}#div9>div>h4{
-    margin: 0px;
-    padding: 0px;
-}
-#div9>div>p{
-    margin: 0px;
-    padding: 0px;
-}#div10>div>h4{
-    margin: 0px;
-    padding: 0px;
-}
-#div10>div>p{
-    margin: 0px;
-    padding: 0px;
-}
-
-#div11>div>h4{
-    margin: 0px;
-    padding: 0px;
-}
-#div11>div>p{
-    margin: 0px;
-    padding: 0px;
-}
-#div12>div>h4{
-    margin: 0px;
-    padding: 0px;
-}
-#div12>div>p{
-    margin: 0px;
-    padding: 0px;
-}
-#div13>div>h4{
-    margin: 0px;
-    padding: 0px;
-}
-#div13>div>p{
-    margin: 0px;
-    padding: 0px;
-}
+  
 #div2{
     height: 500px;
     width: 150px;
@@ -211,7 +143,7 @@
 }
 #div7{
     display: flex;
-    gap: 30px;
+    gap: 50px;
     margin-bottom: 30PX;
     
     
@@ -219,7 +151,7 @@
 #div6{
    
     display: flex;
-    gap: 30px;
+    gap: 50px;
     margin-bottom: 30PX;
     
     
@@ -237,7 +169,7 @@
 #div8{
    
     display: flex;
-    gap: 30px;
+    gap: 50px;
     margin-bottom: 30PX;
 
 }
@@ -261,13 +193,13 @@
 }
 #div9{
     display: flex;
-    gap: 30px;
+    gap: 50px;
     margin-bottom: 30PX;
 }
 #div8{
    
     display: flex;
-    gap: 30px;
+    gap: 50px;
     margin-bottom: 30PX;
 
 }
@@ -296,12 +228,12 @@
 }
 #div11{
     display: flex;
-    gap: 30px;
+    gap: 50px;
     margin-bottom: 30PX;
 }
 #div12{
     display: flex;
-    gap: 30px;
+    gap: 50px;
     margin-bottom: 30PX;
 }
 #div12>div>img{
@@ -314,7 +246,7 @@
 }
 #div13{
     display: flex;
-    gap: 30px;
+    gap: 50px;
     margin-bottom: 30PX;
 }
 #div13>div>img{
