@@ -149,13 +149,9 @@
     
 }
 #div6{
-   
     display: flex;
     gap: 50px;
     margin-bottom: 30PX;
-    
-    
-
 }
 #div6>div{
    
@@ -205,7 +201,7 @@
 }
 #div10{
     display: flex;
-    gap: 30px;
+    gap: 50px;
     margin-bottom: 30PX;
 }
 #div10>div>img{
@@ -214,7 +210,6 @@
     border-radius: 2px;
 }
 #div10>div{
-    
     text-align: center;
 }
 #div11>div>img{
@@ -223,7 +218,6 @@
     border-radius: 2px;
 }
 #div11>div{
-    
     text-align: center;
 }
 #div11{
@@ -256,6 +250,22 @@
 }
 #div13>div{
     text-align: center;
+}
+#div4>div>button:hover{
+    background-color: rgb(104, 163, 196);
+    border-radius: 1px solid black;
+}
+#div5>div>button:hover{
+    background-color: rgb(104, 163, 196);
+    border-radius: 1px solid black;
+}
+#div8>div>button:hover{
+    background-color: rgb(104, 163, 196);
+    border-radius: 1px solid black;
+}
+#div9>div>button:hover{
+    background-color: rgb(104, 163, 196);
+    border-radius: 1px solid black;
 }
 .footer{
     display: Flex;
